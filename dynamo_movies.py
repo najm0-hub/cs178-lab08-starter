@@ -1,6 +1,8 @@
 # CS178 - Lab 8 Starter
 # Lab 8 Najmo
 # Version 2
+# Another commit: Challenge 1
+
 REGION = "us-east-1"
 TABLE_NAME = "Movies"
 
