@@ -1,2 +1,2 @@
-print("Hello from", "YOUR NAME")
+print("Hello from", "Najmo")
 print("Deployed via git!")
